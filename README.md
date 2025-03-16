@@ -37,3 +37,5 @@ May Shot Leaderboard para malaman kung sino ang Tagay King o Queen ng gabi.
 
 Taguys na mga repa! Hindi pwedeng hindi uminom—automatic na ang tagayan! 🍻😂  
 
+![Screenshot 2025-03-16 210802](https://github.com/user-attachments/assets/e4974dfe-87ce-48cd-88bb-9dbd556b33f0)
+
