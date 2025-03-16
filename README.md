@@ -3,7 +3,7 @@ Simple Web App para sa Malupitang Inuman Sessions – Wala nang Takasan, Walang 
 
 
 📝 Ano ‘to?
-Isang simpleng web app para sa tropa na gustong maging *legit* ang inuman—walang palusot, walang mandadaya! Dito, puwede kang:  
+Isang simpleng web app para sa tropa na gustong maging legit ang inuman—walang palusot, walang mandadaya! Dito, puwede kang:  
 
 ✅ Maglista ng mga Kainuman – Puwede mong i-type lahat ng tropa (pati ‘yung mahilig magtago sa CR ‘pag turn na niya).  
 ✅ Shot Countdown – May timer para siguradong uminom si *Dodong Takas* on time—wala nang delay!  
@@ -26,12 +26,12 @@ Dito malalaman kung sino ang *matapang* at sino ang *mahina sa tagay*! Kapag nag
 📊 Paano Malalaman Kung Sino ang Pinaka-Malupit?
 May Shot Leaderboard para malaman kung sino ang Tagay King o Queen ng gabi.  
 - Pinakamaraming Inom– Legend ka na ba?  
-- Pinakamaraming Lutang Moments** – Uy, baka kailangan mo nang matulog!  
-- Pinakamadaming Iwas-Bote** – Wala nang lusot, tropa.  
+- Pinakamaraming Lutang Moments – Uy, baka kailangan mo nang matulog!  
+- Pinakamadaming Iwas-Bote – Wala nang lusot, tropa.  
 
 
 
-🛠️ **Technologies Used:** HTML, CSS, JavaScript (localStorage for saving data) – Mobile-friendly para pwede kahit sa cellphone!  
+🛠️ Technologies Used: HTML, CSS, JavaScript (localStorage for saving data) – Mobile-friendly para pwede kahit sa cellphone!  
 
 
 
