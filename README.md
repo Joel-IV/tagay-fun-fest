@@ -1,69 +1,39 @@
-# Welcome to your Lovable project
+Taguys Na! 🥃🤣  
+Simple Web App para sa Malupitang Inuman Sessions – Wala nang Takasan, Walang Dayaan!
 
-## Project info
 
-**URL**: https://lovable.dev/projects/aabae59e-8d0e-40bf-bb34-d5bf1fc772ef
+📝 Ano ‘to?
+Isang simpleng web app para sa tropa na gustong maging *legit* ang inuman—walang palusot, walang mandadaya! Dito, puwede kang:  
 
-## How can I edit this code?
+✅ Maglista ng mga Kainuman – Puwede mong i-type lahat ng tropa (pati ‘yung mahilig magtago sa CR ‘pag turn na niya).  
+✅ Shot Countdown – May timer para siguradong uminom si *Dodong Takas* on time—wala nang delay!  
+✅ Turn Rotation – Automatic na lilipat sa next na iinom, hindi ‘yung ikaw lagi ang nadadale.  
+✅ Dice of Dares – May virtual dice na magbibigay ng random na hamon—handa ka na ba sa mga trip ng app?  
+✅ Shot Analytics – Sino ang pinaka-lasing? Sino ang umayaw? Lahat ng stats, kita mo na dito!  
+✅ Sobrang Lasing Alert– Kapag sumobra ka sa limit (e.g., 10 shots), magpapakita ang app ng paalala:  
+"Tama na ‘yan, tubig muna baka di ka na makatayo!"* 
 
-There are several ways of editing your application.
 
-**Use Lovable**
+🎮 Special Feature: Dice of Dares 
+Dito malalaman kung sino ang *matapang* at sino ang *mahina sa tagay*! Kapag nag-roll ka ng dice, may lalabas na dare na dapat mong gawin. Sample dares:  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/aabae59e-8d0e-40bf-bb34-d5bf1fc772ef) and start prompting.
+🎲 "Uminom ng 2 shots… at magbigay ng malupitang pick-up line."  
+🎲 "Pass ka sa tagay, pero dapat magpakitang gilas sa sayaw!"  
+🎲 "I-challenge ang kahit sino sa arm wrestling—talo, inom!"  
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📊 Paano Malalaman Kung Sino ang Pinaka-Malupit?
+May Shot Leaderboard para malaman kung sino ang Tagay King o Queen ng gabi.  
+- Pinakamaraming Inom– Legend ka na ba?  
+- Pinakamaraming Lutang Moments** – Uy, baka kailangan mo nang matulog!  
+- Pinakamadaming Iwas-Bote** – Wala nang lusot, tropa.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🛠️ **Technologies Used:** HTML, CSS, JavaScript (localStorage for saving data) – Mobile-friendly para pwede kahit sa cellphone!  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Taguys na mga repa! Hindi pwedeng hindi uminom—automatic na ang tagayan! 🍻😂  
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/aabae59e-8d0e-40bf-bb34-d5bf1fc772ef) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
